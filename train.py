@@ -3,7 +3,6 @@ from __future__ import  absolute_import
 import cupy as cp
 import os
 
-import ipdb
 import matplotlib
 from tqdm import tqdm
 
